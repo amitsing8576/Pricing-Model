@@ -1,2 +1,2 @@
 # firstRepo
-my first Repository 
+my first Git Repository 

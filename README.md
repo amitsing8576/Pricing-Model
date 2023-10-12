@@ -1,4 +1,4 @@
 # firstRepo
 my first Git Repository 
 <br>
-Author- Amit Singh
+Author- Amit Singh(IIT Guwahati)
